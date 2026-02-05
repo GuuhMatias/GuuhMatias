@@ -5,6 +5,9 @@
 Formando em Análise e Desenvolvimento de 
 Sistemas e se especializando em Dados
 
+Atualmente estudando pela Universidade Anhanguera, e me especializando na área de Dados
+com o ojetivo de um dia trabalhar com tal função.
+
 # Acompanhe-me 
 <a href="https://www.linkedin.com/in/gustavodeoliveiramatias/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" />
 </a>
@@ -21,4 +24,3 @@ Sistemas e se especializando em Dados
 
 ---
 
-/>
